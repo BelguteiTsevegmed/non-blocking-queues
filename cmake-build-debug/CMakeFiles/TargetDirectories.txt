@@ -1,0 +1,4 @@
+/Users/belguteitsevegmed/Desktop/programowanie/PW/bt450107/cmake-build-debug/CMakeFiles/queues.dir
+/Users/belguteitsevegmed/Desktop/programowanie/PW/bt450107/cmake-build-debug/CMakeFiles/simpleTester.dir
+/Users/belguteitsevegmed/Desktop/programowanie/PW/bt450107/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/belguteitsevegmed/Desktop/programowanie/PW/bt450107/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MIMUW-PW-lockfree",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "queues::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queues-Debug-c657aa3a25cd292ee4eb.json",
+					"name" : "queues",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleTester::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleTester-Debug-82fc335f5116a95e03ba.json",
+					"name" : "simpleTester",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/belguteitsevegmed/Desktop/programowanie/PW/bt450107/cmake-build-debug",
+		"source" : "/Users/belguteitsevegmed/Desktop/programowanie/PW/bt450107"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
